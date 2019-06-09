@@ -1,0 +1,37 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	background: #e2e2e2;
+	font-family: cursive;
+}
+
+.central_block{
+	width: 700px;
+    margin: 50px auto;
+    background: #ffffff;
+    padding:  50px 0;
+    box-shadow: 1px 1px 5px #ccc;
+    border-radius: 10px;
+}
+.title_rus_verb{
+	text-align: center;
+	font-size: 30px;
+}
+.cont_eng_verbs{
+	margin: 20px 50px 0px 193px;
+}
+.item_answer{
+	margin-top: 10px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 5px;
+    width: 300px;
+    background: #f9f9f9;
+    padding-left: 20px;
+    border-radius: 6px;
+    padding-top: 5px;
+    font-size: 20px;
+    color: #7c7b7b;
+}
+.item_answer:hover{
+	background: #fff;
+}
